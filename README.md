@@ -1,20 +1,12 @@
-# Diamante da Educação O Contrato Diamond, também conhecido como EIP-2535, é o contrato inteligente atualizável mais avançado. Ele é um contrato de proxy multifacetado que permite que os desenvolvedores atualizem facilmente contratos já implantados.
+# EIP-2535 Diamond Learning Resources
 
-Ele possui muitos artigos valiosos e tutoriais. Este repositório oferece muitos recursos para estudar o Contrato Diamond.
+A small study collection about the Diamond Standard for upgradeable Ethereum smart contracts. The repository includes a presentation and a PDF covering upgradeability patterns, along with links and notes for further reading.
 
-Aprendizagem
+## Topics
 
-Diamantes EIP-2535
-Seção de referência de Diamantes EIP-2535
-Compreendendo Diamantes no Ethereum
-Documentação delegatecall de Solidity
-Layout de Variáveis ​​de Estado no Armazenamento
-Como o Armazenamento Diamond Funciona
-Bibliotecas Solidity Não Podem Ter Variáveis ​​de Estado - Oh Sim, Elas Podem!
-Padrão AppStorage para Variáveis ​​de Estado em Solidity
-Como Compartilhar Funções entre Facetas de um Diamante
-Discussão
+- EIP-2535 Diamond architecture
+- Facets and delegated calls
+- Solidity storage layout and AppStorage patterns
+- Upgradeability patterns for smart contracts
 
-Discussão para EIP-2535
-
-# Sinta-se à vontade para fazer pull request para adicionar mais recursos valiosos.
+The included documents are learning materials, not a deployable smart contract project.
